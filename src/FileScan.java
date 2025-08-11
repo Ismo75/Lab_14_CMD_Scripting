@@ -37,7 +37,7 @@ public class FileScan {
 
         // Scan and report
         scanAndReport(fileToScan);
-    }
+
 
     private static void scanAndReport(File selectedFile) {
         int lineCount = 0;
